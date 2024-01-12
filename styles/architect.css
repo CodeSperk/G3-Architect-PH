@@ -42,6 +42,7 @@ line-height: 1.5rem;
 .header{
   background: rgba(255, 144, 14, 0.10);
   max-width: 1920px;
+  margin: 0 auto;
 }
 .header-contents{
   max-width: 1440px;
